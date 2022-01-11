@@ -1,0 +1,24 @@
+h3 {
+    background: darkslateblue;
+}
+#p1 {
+    color: bisque;
+}
+#p2 {
+    color: rgb(220, 167, 115);
+}
+#p3 {
+    color: #d3ce5d;
+}
+.pic {
+    width: 400px;
+}
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
+.underline {
+    text-decoration: underline;
+}
