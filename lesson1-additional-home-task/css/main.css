@@ -1,0 +1,19 @@
+h1, h2{
+    color: darkslateblue;
+    text-align: center;
+}
+h1 {
+    background: bisque;
+}
+h2 {
+    background: antiquewhite;
+}
+img {
+    width: 200px;
+}
+.link {
+    font-style: italic;
+}
+p {
+    font-size: 22px;
+}
