@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color: #fce9d6;
+}
+.div1 {
+    background-color: #8a2221;
+}
+.div2 {
+    background-color: #c1c1c1;
+    padding: 10px;
+}
+.div2 p {
+    margin: 5px 10px;
+}
+.div3 {
+    background-color: #6396ed;
+    padding: 20px 0;
+}
+.div4 {
+    background-color: #6bbb67;
+    min-height: 200px;
+    max-width: 200px;
+}
+.div5 {
+    background-color: #8987ad;
+    min-height: 200px;
+    max-width: 200px;
+    border-radius: 20px;
+}
