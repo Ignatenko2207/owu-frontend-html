@@ -1,0 +1,63 @@
+.row1 {
+    margin: 50px 20px;
+}
+
+.row1 div {
+    border: 1px solid #c1a466;
+    background-color: #ffac00;
+    min-width: 70px;
+    min-height: 70px;
+    text-align: center;
+    max-block-size: 70px;
+    display: inline-block;
+    margin-right: 40px;
+}
+
+.row1 div p {
+    padding-top: 12px;
+}
+
+.row2 {
+    margin: 50px 20px;
+}
+
+.row2 div {
+    border: 1px solid #c1a466;
+    background-color: #ffac00;
+    min-width: 70px;
+    min-height: 70px;
+    text-align: center;
+    max-block-size: 70px;
+    display: inline-block;
+    margin-right: 40px;
+}
+
+.row2 div p {
+    padding-top: 12px;
+}
+
+.divA {
+    box-shadow: 10px 10px #414141;
+}
+
+.divB {
+    box-shadow: 10px 10px 3px #414141;
+}
+
+.divC {
+    box-shadow: 10px 10px 3px 2px #414141;
+}
+
+.divD {
+    box-shadow: 10px 10px 3px #9f9f9f;
+}
+
+.divE {
+    border-radius: 5px;
+    box-shadow: 10px 10px 3px #414141;
+}
+
+.divF {
+    border-radius: 5px;
+    box-shadow: 10px 10px 3px #9f9f9f;
+}
