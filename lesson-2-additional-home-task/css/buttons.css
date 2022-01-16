@@ -1,0 +1,36 @@
+body {
+    background-color: #252525;
+}
+
+.content-box div{
+    margin-left: auto;
+    margin-right: auto;
+    height: 35px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+}
+
+.orange {
+    margin-top: 300px;
+    color: #f56b1d;
+    border: solid 3px #f56b1d;
+}
+
+.blue {
+    color: #2be3d8;
+    border: solid 3px #2be3d8;
+}
+
+.pink {
+    color: #ff54a6;
+    border: solid 3px #ff54a6;
+}
+
+.red {
+    color: #ff3e3e;
+    border: solid 3px #ff3e3e;
+}
